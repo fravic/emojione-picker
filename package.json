@@ -1,6 +1,6 @@
 {
   "name": "emojione-picker",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "author": "Tom Moor",
   "description": "An emoji picker in React",
   "main": "lib/picker.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tommoor/emojione-picker.git"
+    "url": "https://github.com/fravic/emojione-picker.git"
   },
   "bugs": {
     "url": "https://github.com/tommoor/emojione-picker/issues"
